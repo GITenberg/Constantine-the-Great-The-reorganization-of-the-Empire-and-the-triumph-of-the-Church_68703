@@ -1,0 +1,33 @@
+_repo: Constantine-the-Great-The-reorganization-of-the-Empire-and-the-triumph-of-the-Church_68703
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Firth, John B. (John Benjamin)
+    aliases:
+    - Firth, John Benjamin
+    - Firth, J. B. (John Benjamin)
+    birthdate: 1868
+    deathdate: 1943
+    gutenberg_agent_id: '1141'
+    url: http://www.gutenberg.org/2009/agents/1141
+description: ''
+gutenberg_issued: '2022-08-06'
+identifiers:
+  gutenberg: '68703'
+language: en
+pgterms:marc904: https://archive.org/details/constantinegreat01firt
+pgterms:marc905: 20201004130110firth
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: KD Weeks, Turgut Dincer and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :G. P. Putnam's sons,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Constantine the Great: The reorganization of the Empire and the triumph of
+  the Church'
+url: http://www.gutenberg.org/ebooks/68703
